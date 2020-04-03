@@ -3,7 +3,7 @@
 
 Island::Island()
 {
-	TheTextureManager::Instance()->load("../Assets/textures/island.png",
+	TheTextureManager::Instance()->load("../Assets/textures/gasTank.png",
 		"island", TheGame::Instance()->getRenderer());
 
 	// measure size by querying the texture
@@ -16,7 +16,7 @@ Island::Island()
 	setType(GameObjectType::ISLAND);
 	setVelocity(glm::vec2(0.0f, 5.0f));
 
-	TheSoundManager::Instance()->load("../Assets/audio/yay.ogg", "yay", SOUND_SFX);
+	TheSoundManager::Instance()->load("../Assets/audio/vroom.wav", "yay", SOUND_SFX);
 
 	
 }
