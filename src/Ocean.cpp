@@ -10,8 +10,8 @@ Ocean::Ocean()
 	glm::vec2 size = TheTextureManager::Instance()->getTextureSize("ocean");
 	setWidth(size.x);
 	setHeight(size.y);
-
-	setPosition(glm::vec2(0.0f, -960.0f));
+	
+	setPosition(glm::vec2(2.0f, -315.0f));
 	setIsColliding(false);
 	setType(OCEAN);
 	setVelocity(glm::vec2(0.0f, 5.0f));
@@ -56,5 +56,5 @@ void Ocean::m_checkBounds()
 
 void Ocean::m_reset()
 {
-	setPosition(glm::vec2(0.0f, -960.0f));
+	setPosition(glm::vec2(2.0f, -315.0f));
 }
