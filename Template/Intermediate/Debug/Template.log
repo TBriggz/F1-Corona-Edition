@@ -1,53 +1,12 @@
-﻿  Cloud.cpp
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(11,15): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(11,15): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(11,15): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(11,15): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(11,15): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(12,16): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(12,16): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(12,16): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(12,16): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(12,16): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,38): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,38): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,38): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,38): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,38): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,23): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,23): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,23): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,23): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(27,23): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,38): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,38): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,38): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,38): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,38): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,23): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,23): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,23): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,23): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(28,23): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(52,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,35): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,35): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,35): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,35): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,35): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,17): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,17): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,17): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,17): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(58,17): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,35): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,35): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,35): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,35): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,35): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,17): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,17): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,17): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,17): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Cloud.cpp(59,17): warning C4244:         ]
+﻿  StartScene.cpp
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(51,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(51,36): warning C4244:         with
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(51,36): warning C4244:         [
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(51,36): warning C4244:             T=float
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(51,36): warning C4244:         ]
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(52,36): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(52,36): warning C4244:         with
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(52,36): warning C4244:         [
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(52,36): warning C4244:             T=float
+C:\Users\skate\Desktop\F1-Corona-Edition\src\StartScene.cpp(52,36): warning C4244:         ]
   Template.vcxproj -> C:\Users\skate\Desktop\F1-Corona-Edition\bin\Debug\Template.exe
