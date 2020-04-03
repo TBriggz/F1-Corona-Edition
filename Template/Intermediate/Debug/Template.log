@@ -1,43 +1,22 @@
-﻿  Island.cpp
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(11,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(11,15): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(11,15): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(11,15): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(11,15): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(12,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(12,16): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(12,16): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(12,16): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(12,16): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(30,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(30,17): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(30,17): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(30,17): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(30,17): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(31,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(31,17): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(31,17): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(31,17): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(31,17): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(49,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,35): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,35): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,35): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,35): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,35): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,17): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,17): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,17): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,17): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(55,17): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,35): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,35): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,35): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,35): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,35): warning C4244:         ]
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,17): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,17): warning C4244:         with
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,17): warning C4244:         [
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,17): warning C4244:             T=float
-C:\Users\skate\Desktop\F1-Corona-Edition\src\Island.cpp(56,17): warning C4244:         ]
+﻿  Plane.cpp
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(11,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(11,15): warning C4244:         with
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(11,15): warning C4244:         [
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(11,15): warning C4244:             T=float
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(11,15): warning C4244:         ]
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(12,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(12,16): warning C4244:         with
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(12,16): warning C4244:         [
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(12,16): warning C4244:             T=float
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(12,16): warning C4244:         ]
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(27,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(27,17): warning C4244:         with
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(27,17): warning C4244:         [
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(27,17): warning C4244:             T=float
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(27,17): warning C4244:         ]
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(28,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(28,17): warning C4244:         with
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(28,17): warning C4244:         [
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(28,17): warning C4244:             T=float
+C:\Users\skate\Desktop\F1-Corona-Edition\src\Plane.cpp(28,17): warning C4244:         ]
   Template.vcxproj -> C:\Users\skate\Desktop\F1-Corona-Edition\bin\Debug\Template.exe
