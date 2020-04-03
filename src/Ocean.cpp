@@ -3,7 +3,7 @@
 
 Ocean::Ocean()
 {
-	TheTextureManager::Instance()->load("../Assets/textures/ocean.gif",
+	TheTextureManager::Instance()->load("../Assets/textures/background.jpg",
 		"ocean", TheGame::Instance()->getRenderer());
 
 	// measure size by querying the texture
