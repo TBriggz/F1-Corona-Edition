@@ -16,7 +16,7 @@ Cloud::Cloud()
 	setType(GameObjectType::CLOUD);
 	
 
-	TheSoundManager::Instance()->load("../Assets/audio/thunder.ogg", "thunder", SOUND_SFX);
+	TheSoundManager::Instance()->load("../Assets/audio/brokenGlass.mp3", "thunder", SOUND_SFX);
 }
 
 Cloud::~Cloud()
