@@ -106,9 +106,9 @@ void StartScene::start()
 	addChild(m_pOcean);
 
 	
-	SDL_Color yellow = { 255, 255, 0, 255 };
-	m_pStartLabel = new Label("  F1 Corona", "Dock51", 80, yellow, 
-		glm::vec2(Config::SCREEN_WIDTH * 0.5f, 100.0f));
+	SDL_Color black = { 0, 0, 0, 255 };
+	m_pStartLabel = new Label("  F1 Corona", "Dock51", 80, black, 
+		glm::vec2(Config::SCREEN_WIDTH * 0.5f, 90.0f));
 	m_pStartLabel->setParent(this);
 	addChild(m_pStartLabel);
 
