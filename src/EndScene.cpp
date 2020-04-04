@@ -102,11 +102,11 @@ void EndScene::start()
 	addChild(m_pOcean);
 	
 	const SDL_Color yellow = { 255, 255, 0, 255 };
-	m_pGameOverLabel = new Label("Game Over", "Dock51", 80, yellow, glm::vec2(320.0f, 100.0f));
+	m_pGameOverLabel = new Label("You Died!", "Dock51", 80, yellow, glm::vec2(320.0f, 100.0f));
 	m_pGameOverLabel->setParent(this);
 	addChild(m_pGameOverLabel);
 
 	m_pRestartButton = new RestartButton();
-	m_pRestartButton->setPosition(glm::vec2(Config::SCREEN_WIDTH * 0.5f, Config::SCREEN_HEIGHT * 0.5f));
+	m_pRestartButton->setPosition(glm::vec2(Config::SCREEN_WIDTH * 0.5f, Config::SCREEN_HEIGHT * 0.7f));
 	addChild(m_pRestartButton);
 }

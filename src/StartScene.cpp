@@ -18,8 +18,7 @@ void StartScene::draw()
 {
 	m_pOcean->draw();
 	m_pStartLabel->draw();
-	m_pStartButton->draw();
-	
+	m_pStartButton->draw();	
 }
 
 void StartScene::update()
@@ -113,7 +112,7 @@ void StartScene::start()
 	addChild(m_pStartLabel);
 
 	m_pStartButton = new StartButton();
-	m_pStartButton->setPosition(glm::vec2(Config::SCREEN_WIDTH * 0.5f, Config::SCREEN_HEIGHT * 0.5f));
+	m_pStartButton->setPosition(glm::vec2(Config::SCREEN_WIDTH * 0.5f, Config::SCREEN_HEIGHT * 0.7f));
 	addChild(m_pStartButton);
 }
 
