@@ -169,7 +169,7 @@ glm::vec2 Level1Scene::getMousePosition()
 
 void Level1Scene::m_buildClouds()
 {
-	for (auto i = 0; i < m_cloudNum; ++i)
+	for (auto i = -1; i < m_cloudNum; ++i)
 	{
 		auto cloud = new Cloud();
 		m_pClouds.push_back(cloud);
